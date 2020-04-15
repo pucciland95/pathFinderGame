@@ -1,4 +1,4 @@
-# pathFinderGame
+# Find the path game
 This repository contains a little game written in C++ where the player needs to do ABSOLUTELY nothing except watching the computer play.
 It is just to see it play.
 
