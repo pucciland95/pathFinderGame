@@ -28,6 +28,8 @@ Feel free to change the code as you want.
 
 PS: I am not a good programmer. 
 
+Here after an example of how the algorithm performs:
 
+![](example.gif)
 
 
