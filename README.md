@@ -21,9 +21,13 @@ The third is basically the Probabilistic road map algorithm that runs in backgro
 
 So, the purpose of the player is simply to get to the food position by itself. Stop.
 
+Note that it does not find the shortest path but one path. 
+Sometime it takes a lot of time to work but at the end it always succedes (there must be a bug somewhere).
+
 Feel free to change the code as you want.
 
 PS: I am not a good programmer. 
+
 
 
 
