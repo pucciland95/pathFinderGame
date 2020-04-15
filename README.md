@@ -17,7 +17,7 @@ The first update the console depending by the actions chosen by the algorithm.
 The second is straighfoward what it is.
 
 The third is basically the Probabilistic road map algorithm that runs in background and tells the player where to go from the starting position
-(where the player is at) to the final position (where the player needs to go that in our case is the position of the 'food' that pur player needs to eat).
+(where the player is at) to the final position (where the player needs to go that in our case is the position of the 'food' that our player needs to eat).
 
 So, the purpose of the player is simply to get to the food position by itself. Stop.
 
